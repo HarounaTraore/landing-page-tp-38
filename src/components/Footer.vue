@@ -14,6 +14,9 @@
   }
 </script>
 
-<style scoped>
-
+<style>
+  footer {
+    text-align: center;
+    font-weight: 900;
+  }
 </style>
